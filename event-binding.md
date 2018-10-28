@@ -144,7 +144,7 @@ Now the title will change only when the user hits the Enter key while typing in 
 
 ### Explore the $event
 
- ![lab-icon](.gitbook/assets/lab%20%281%29.jpg)**Playground:** You can change the changeTitle method to log the `$event` object in the console. This way you can explore it and see what properties it has.
+ ![lab-icon](https://raw.githubusercontent.com/ngHeroes/todo-list-tutorial/master/assets/lab.png)**Playground:** You can change the changeTitle method to log the `$event` object in the console. This way you can explore it and see what properties it has.
 
 Change the method `changeTitle`:
 

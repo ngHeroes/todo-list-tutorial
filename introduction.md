@@ -2,7 +2,7 @@
 
 Angular is much more than a framework. It's a whole platform for creating applications that can run not only on a browser, but anywhere. It gives you tools to advanced capabilities, such as easily creating dynamic components, routes definitions and much more.
 
-![](https://github.com/ngHeroes/todo-list-tutorial/blob/master/assets/angular.png)
+![](https://raw.githubusercontent.com/ngHeroes/todo-list-tutorial/master/assets/angular.png)
 
 In this tutorial you'll learn how to develop a basic application using Angular. You will get to know the building blocks to have a working application: modules, components and services. The Angular CLI will help you in the process in many ways and will simplify the development process.
 
@@ -10,7 +10,7 @@ By the end of this tutorial, you'll have a ready todo-list application, that sho
 
 The list is saved in the browser's local storage. All the changes will remain even when you refresh the browser or even turn off your computer \(as long as you use the same browser on the same computer and not in private mode\).
 
-![](https://github.com/ngHeroes/todo-list-tutorial/blob/master/assets/todo-app-final.gif)
+![](https://raw.githubusercontent.com/ngHeroes/todo-list-tutorial/master/assets/todo-app-final.gif)
 
 You will even publish the application on the Web, so that other could use it!
 
