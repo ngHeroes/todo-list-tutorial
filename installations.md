@@ -30,7 +30,7 @@ Plugins help the IDE understand the code. Webstorm ships with the necessary plug
 * [Angular.ng-template](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 * [natewallace.angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 
-![VS Code Plugins for Angular](https://github.com/ng-girls/todo-list-tutorial/raw/master/assets/VS-Code-Plugins.png)
+![VS Code Plugins for Angular](https://github.com/ngHeroes/todo-list-tutorial/raw/master/assets/VS-Code-Plugins.png)
 
 ## NodeJS and NPM
 
