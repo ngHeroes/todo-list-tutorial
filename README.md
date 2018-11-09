@@ -1,6 +1,6 @@
 # 👀 About
 
-## Angular Tutorial for Beginners -
+## Angular Tutorial for Beginners
 
 ## Creating a Todo-List App
 
